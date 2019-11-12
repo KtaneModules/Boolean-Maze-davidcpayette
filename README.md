@@ -1,0 +1,2 @@
+#[ModKit Wiki](../../wiki)
+readme
